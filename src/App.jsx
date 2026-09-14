@@ -38,7 +38,7 @@ const PLAYERS = [
   { name: "Blousson, Simón", hcp: 9 },
   { name: "Goldaracena, Jaime", hcp: 13 },
   { name: "Bisogno, Marcos", hcp: 13 },
-  { name: "Hughes, Constantino", hcp: 14 }
+  { name: "Hughes, Constantino", hcp: 14 },
   { name: "Garzón, Manuel", hcp: 14 },
   { name: "Herrera, Mateo", hcp: 14 },
   { name: "Berri, Mateo", hcp: 15 },
