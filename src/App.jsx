@@ -67,6 +67,8 @@ const PLAYERS = [
   { name: "Agote, Pedro", hcp: null },
   { name: "Ramallo, Trinidad", hcp: null },
   { name: "Ramallo, Justo", hcp: null },
+  { name: "Campana, Teodoro", hcp: null },  
+  { name: "Solanet, Miguel", hcp: null },
 ];
 
 const ADMIN_PASSWORD = "admin2026";
