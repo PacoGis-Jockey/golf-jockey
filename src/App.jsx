@@ -15,10 +15,8 @@ const HOLES = [
 
 const PLAYERS = [
   { name: "Reynal O'Connor, Alí", hcp: -1 },
-  { name: "Gismondi, Simón", hcp: 1 },
   { name: "Cúneo, Beltrán", hcp: 2 },
   { name: "López Olaciregui, Bautista", hcp: 3 },
-  { name: "Pisarenko, Belisario", hcp: 3 },
   { name: "Hume Navarro, Alejo", hcp: 3 },
   { name: "Clariá, Marcos", hcp: 3 },
   { name: "Fagalde, Iñaki", hcp: 4 },
@@ -61,7 +59,8 @@ const PLAYERS = [
   { name: "Latugaye, Simón", hcp: 8 },
   { name: "Del Rio, Federico", hcp: 13 },
   { name: "Latugaye, Nicolás", hcp: null },
-  { name: "Rey Petit, Rafael", hcp: 11 },
+  { name: "Rey Petit, Rafael", hcp: 8 },
+  { name: "Perlinger, Silvestre", hcp: 16 },
   { name: "Peralta Ramos, Enrique", hcp: null },
   { name: "Del Rio, Marcos", hcp: 14 },
   { name: "Agote, Pedro", hcp: null },
